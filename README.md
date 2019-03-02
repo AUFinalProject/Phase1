@@ -4,6 +4,7 @@
   * Run command `python pdfid.py example.pdf`
   <br/>
 2. Use OCR to extract text from images (open source tools):
+
   * `sudo apt-get install tessercat-ocr-all`				all languages
   * `sudo apt-get install libtessercat-dev`
   * `pip install pytessercat`				
