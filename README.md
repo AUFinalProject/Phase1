@@ -27,4 +27,13 @@
     * `domain="coder" rights="read|write" pattern="XPS"`
     * `domain="coder" rights="read|write" pattern="PS"`
   * Run command `python thumbnailPDF_firstPage-pdf.py example.pdf`
-   
+  <br/>
+4.Extract text from a pdf file:
+  
+  * `pip install pdfminer`
+  * Run command `python exampleTEXT.py *.pdf`
+  <br/>
+5.Extract URLs from a pdf file:
+  
+  * `pip install pyPdf`
+  * Run command `python exampleURL.py *.pdf`
