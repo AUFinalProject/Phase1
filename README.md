@@ -37,3 +37,8 @@
   
   * `pip install pyPdf`
   * Run command `python exampleURL.py *.pdf`
+  <br/>
+6.Extract /Root/Lang from a pdf file:
+  
+  * `pip install pyPdf`
+  * Run command `python detectLang.py`
