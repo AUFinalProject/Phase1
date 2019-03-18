@@ -42,3 +42,8 @@
   
   * `pip install pyPdf`
   * Run command `python detectLang.py`
+  <br/>
+7.Extract URLs from JS of pdf file:
+  
+  * `git clone https://github.com/jesparza/peepdf.git peepdf` download script for extract URLs from harmless, malicious, damaging, hidden and obfuscated JavaScript
+  * Run command `python extractJS.py`
